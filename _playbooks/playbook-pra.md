@@ -2,7 +2,6 @@
 layout: page
 collection: playbooks
 title: Phishing-Resistant Authenticators
-category: pra
 pubdate: 2022-12
 date: December 30, 2022
 type: Markdown
@@ -21,7 +20,7 @@ subnav:
 ---
 
 Version 1.0<br>
-September 25, 2022
+December xx, 2022
 
 <img src="{{site.baseurl}}/assets/img/logo-gsa.png" width="64" height='64' align="left" alt="U.S. General Services Administration Logo">
 <img src="{{site.baseurl}}/assets/img/logo-cio.png" width="64" height='64' align="left" alt="U.S. Federal Chief Information Officer Council Logo">
