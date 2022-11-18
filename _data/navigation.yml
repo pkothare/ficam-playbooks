@@ -238,3 +238,7 @@ signfedregister:
 pam:
   - text: Privileged User Playbook
     href: /playbooks/pam/
+
+phish:
+  - text: Phishing-Resistant Authenticator Playbook
+    href: /playbooks/phish/

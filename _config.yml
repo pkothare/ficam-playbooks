@@ -59,7 +59,7 @@ primary_navigation:
         url: /arch/services/#identity-management
       - name: Cloud Identity
         url: /playbooks/cloud/
-      - name: Privileged Identity (New!)
+      - name: Privileged Identity
         url: /playbooks/pam/
       - name: Digital Worker Identity
         url: /playbooks/dw/
@@ -75,7 +75,8 @@ primary_navigation:
         url: /piv/
       - name: PIV Interoperable Card
         url: /playbooks/pivi/
-      - name: Phishing-Resistant Authenticators (Coming Soon)
+      - name: Phishing-Resistant Authenticators (NEW!)
+        url: /playbooks/phish/
   - name: Access
     children:
       - name: Access Management Overview
@@ -92,7 +93,7 @@ primary_navigation:
         url: /playbooks/sso/#step-5-federate-application-access
       - name: Attribute supported Federation
         url: /playbooks/ilm/#step-4-integrate-with-agency-enterprise-services
-      - name: Trust Frameworks (New!)
+      - name: Trust Frameworks
         url: /playbooks/cloud/#federation
   - name: Governance
     children:
