@@ -31,6 +31,10 @@ This playbook is a collaboration among the General Services Administration Offic
 # Executive Summary
 
 
+
+# Playbook Purpose
+Agencies that are in “wait and see” mode with their own FICAM implementations may learn from the successes and challenges of early adopter agencies who participate in playbook development. Playbooks are intended to be a “living document,” the playbook will be a resource to federal agencies to capture the lessons learned from early adopters and to provide a reference for standards-based digital identity best practices as lessons learned and standards continue to evolve.
+
 # Federal Zero Trust Strategy
 
 ## OMB Memo 22-09
